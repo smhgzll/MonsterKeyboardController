@@ -1,2 +1,2 @@
 # MonsterKeyboardController
-Custom keyboard lightning control
+A custom keyboard lightning controller.
